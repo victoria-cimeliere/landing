@@ -1,0 +1,19 @@
+.typeform {
+	margin: 20px auto;
+	max-width: 400px;
+}
+
+.typeform label {
+	display: inline-block;
+	margin: 10px 0 5px;
+}
+
+.typeform input,
+
+.typeform select {
+	width: 100%;
+	padding: 10px;
+	margin-bottom: 20px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+}
